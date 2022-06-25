@@ -1,0 +1,8 @@
+C:\EGITMEN YEDEK\CEMDOS\GIT\AribilgiProjects\Pro1-Donguler\bin\Debug\Pro1-Donguler.exe.config
+C:\EGITMEN YEDEK\CEMDOS\GIT\AribilgiProjects\Pro1-Donguler\bin\Debug\Pro1-Donguler.exe
+C:\EGITMEN YEDEK\CEMDOS\GIT\AribilgiProjects\Pro1-Donguler\bin\Debug\Pro1-Donguler.pdb
+C:\EGITMEN YEDEK\CEMDOS\GIT\AribilgiProjects\Pro1-Donguler\obj\Debug\Pro1-Donguler.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\CEMDOS\GIT\AribilgiProjects\Pro1-Donguler\obj\Debug\Pro1-Donguler.csproj.SuggestedBindingRedirects.cache
+C:\EGITMEN YEDEK\CEMDOS\GIT\AribilgiProjects\Pro1-Donguler\obj\Debug\Pro1-Donguler.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\CEMDOS\GIT\AribilgiProjects\Pro1-Donguler\obj\Debug\Pro1-Donguler.exe
+C:\EGITMEN YEDEK\CEMDOS\GIT\AribilgiProjects\Pro1-Donguler\obj\Debug\Pro1-Donguler.pdb
